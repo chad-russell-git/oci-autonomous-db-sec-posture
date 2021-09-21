@@ -9,7 +9,7 @@ Source the environment: source oci_scripts_venv/bin/activate
 Install the dependences: pip3 install oci
 Running the script on a local machine
 Source the environment: source oci_scripts_venv/bin/activate
-Run the script: python3 recommendations.py
+Run the script: python3 autonomous_db_security_posture.py
 Running the script in Cloud Shell
 Source the environment: source oci_scripts_venv/bin/activate
-Run the script: python3 recommendations.py -dt
+Run the script: python3 autonomous_db_security_posture.py -dt
